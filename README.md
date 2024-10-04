@@ -4,6 +4,7 @@
 
 - [MongoDB][mongodb-url], using [mongoose][mongoose-url].
 - [GraphQL][graphql-url], using [Apollo GraphQL][apollo-graphql-url].
+- Javascript, Typescript is a plus but not required.
 
 ## What is NOT allowed
 
@@ -44,6 +45,9 @@ Create a basic event management system (no need to implement a user system) wher
 - The Location `name` field should accept:
   - Alphanumerical characters;
   - Only `-` as a special character.
+ 
+### What is NOT required
+- No UI is needed. Showing the mutations and query usages through Apollo Studio is what we are looking for.
 
 ## Tip
 
